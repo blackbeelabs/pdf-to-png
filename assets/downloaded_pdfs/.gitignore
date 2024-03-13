@@ -1,1 +1,3 @@
+*.pdf
 !.gitignore
+!fy2024_budget_statement.pdf

@@ -1,1 +1,4 @@
 !.gitignore
+*.png
+!fy2024_budget_statement-pg0.png
+!fy2024_budget_statement-pg1.png
